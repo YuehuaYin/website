@@ -1,0 +1,10 @@
+#picture {
+  transform: translate(0%, 5%);
+  display: inline-flex;
+  padding-top: 50px;
+  padding-right: 50px;
+}
+
+#info {
+  width: 40%;
+}
