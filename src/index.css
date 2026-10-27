@@ -1,0 +1,11 @@
+body {
+  overflow-x: hidden;
+}
+
+.mainContent {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 600px;
+  padding: 20px;
+}
